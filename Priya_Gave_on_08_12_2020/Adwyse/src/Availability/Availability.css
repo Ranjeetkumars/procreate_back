@@ -1,0 +1,48 @@
+.headerStyle {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.experimentsHolder {
+  background-color: teal;
+  height: 200px;
+  border-style: solid;
+}
+
+.box {
+  background-color: white;
+  height: 10px;
+  width: 10px;
+}
+
+.boxBounce {
+  background-color: white;
+  position: relative; /*without position defined animations wont work*/
+  height: 10px;
+  width: 10px;
+  animation: bounce 5s infinite;
+}
+
+.boxClickCss {
+  background-color: white;
+  width: 70px;
+}
+
+boxClickCssColor {
+  background-color: red;
+}
+
+@keyframes bounce {
+  0% {
+    left: 0%;
+  }
+  50% {
+    left: 90%;
+  }
+  100% {
+    left: 0%;
+  }
+}

@@ -1,0 +1,162 @@
+.header {
+  top: 0px;
+  left: 0px;
+  width: 414px;
+  height: 896px;
+  background: transparent url('assets/img/Overlay.png') 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.header1 {
+  top: 420px;
+  left: 69px;
+  margin-top: 420px;
+  width: 277px;
+  height: 83px;
+  background: transparent url('assets/img/White Logo.png') 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.txtadwyse {
+  top: 0px;
+  margin-top: 76px;
+  left: 0px;
+  margin-left: 52px;
+  width: 0px;
+  height: 0px;
+  text-align: left;
+  /* font: normal normal bold 54px/77px Agenda; */
+  font-size: 34px;
+  letter-spacing: 0px;
+  color: #2d5795;
+  opacity: 1;
+}
+
+.container {
+  top: 0px;
+  left: 0px;
+  width: 414px;
+  height: 896px;
+  background: var(--white) 0% 0% no-repeat padding-box;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.letsGetStarted {
+  top: 188px;
+  left: 133px;
+  width: 150px;
+  height: 24px;
+  text-align: left;
+  font: normal normal bold 20px/34px Lato;
+  letter-spacing: 0px;
+  color: #2d5795;
+  opacity: 1;
+}
+
+.loginwithotp {
+  top: 367px;
+  left: 37px;
+  width: 340px;
+  height: 50px;
+  background: var(--green) 0% 0% no-repeat padding-box;
+  background: #2eb9ae 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+}
+.loginwithfacebook {
+  top: 434px;
+  left: 37px;
+  width: 340px;
+  height: 50px;
+  background: var(--primary-blue) 0% 0% no-repeat padding-box;
+  background: #2d5795 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+}
+
+.input {
+  top: 295px;
+  left: 37px;
+  width: 340px;
+  height: 50px;
+  background: #f2f2f2 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+}
+
+.from {
+  margin-top: -18px;
+  font-size: 1rem;
+  padding: 1rem 0;
+  padding: 0rem 0;
+  left: 17px;
+  margin-left: 94px;
+}
+
+.b {
+  fill: none;
+  stroke: #4a5058;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2px;
+}
+
+.a {
+  fill: rgba(255, 0, 0, 0);
+}
+
+.a {
+  fill: none;
+  stroke: #fff;
+  stroke-linecap: round;
+  stroke-width: 2px;
+}
+
+.aa {
+  fill: none;
+  stroke: #4a5058;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2px;
+}
+.bb {
+  fill: rgba(255, 255, 255, 0);
+}
+
+.email_a {
+  fill: rgba(255, 255, 255, 0);
+}
+.email_b {
+  fill: none;
+  stroke: #4a5058;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2px;
+}
+
+.dob_a {
+  fill: none;
+  stroke: #4a5058;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2px;
+}
+.dob_b {
+  fill: rgba(255, 255, 255, 0);
+}
+
+.gender_a {
+  fill: none;
+  stroke: #4a5058;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2px;
+}
+.gender_b {
+  fill: rgba(255, 255, 255, 0);
+}
+
+

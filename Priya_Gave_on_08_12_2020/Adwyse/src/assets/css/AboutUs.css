@@ -1,0 +1,18 @@
+.aboutUs {
+  margin-left: -46px;
+  margin-top: -196px;
+  width: 414px;
+  height: 368px;
+  background: transparent url("../img/AboutUs.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.backArrowAboutUs {
+  margin-top: 7px;
+  margin-left: 23px;
+  width: 12px;
+  height: 21px;
+  background: transparent url("../img/backarrow.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  position: absolute;
+}

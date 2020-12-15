@@ -1,0 +1,9 @@
+.whatsApp {
+  margin-top: -53px;
+  margin-left: 55px;
+
+  width: 200px;
+  height: 200px;
+  background: transparent url("../img/whatsuo.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}

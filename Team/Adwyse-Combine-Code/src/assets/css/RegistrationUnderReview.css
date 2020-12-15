@@ -1,0 +1,19 @@
+.backArrowReview {
+  margin-top: 60px;
+  margin-left: 23px;
+  width: 12px;
+  height: 21px;
+  background: transparent url("../img/Back\ Arrow.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  position: absolute;
+}
+.registrationUnderReviewLog {
+  margin-left: 114px;
+
+  /* width: 87px; */
+  height: 110px;
+  background: transparent url("../img/medicalreview.png.PNG") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}

@@ -1,0 +1,7 @@
+logging: 
+  level:   
+    com.pro: DEBUG
+    org.springframework.web: ERROR
+    org.springframework.security: ERROR
+    org.hibernate: ERROR    
+  file: adywseservices.log

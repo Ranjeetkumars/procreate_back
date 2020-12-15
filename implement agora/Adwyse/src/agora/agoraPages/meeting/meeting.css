@@ -1,0 +1,78 @@
+.meeting.wrapper {
+  background: rgb(12, 43, 64);
+  height: 100%;
+}
+
+video {
+  max-width: unset;
+}
+
+.meeting .ag-header {
+  padding: 20px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ag-header-lead {
+  font-size: 16px;
+  line-height: 35px;
+}
+
+.meeting .ag-footer {
+  padding: 0 30px;
+  display: flex;
+  align-items: center;
+}
+
+.meeting .ag-main {
+  position: relative;
+  width: 100%;
+  height: calc(100% - 70px);
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.meeting .ag-footer :first-child {
+  margin-right: 80px;
+}
+
+.header-logo {
+  width: 60px;
+  height: 35px;
+  margin-right: 12px;
+}
+
+.ag-container {
+  width: calc(100% - 2px);
+  height: 100%;
+  margin: 0 auto;
+  /* background: rgba(255, 255, 255, .1); */
+  border-radius: 12px;
+}
+.card{
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12) !important;
+  border-radius: 6px;
+  /* max-width: 24rem; */
+  width: 414px;
+  margin: 0 auto;
+  height: 764px;
+  opacity: 1;
+   
+  }
+  
+  .card:hover{
+    border: 1px  solid blue;
+  }
+  .card:active{
+    border: 1px  solid pink;
+  }
+  .ag-btn-group {
+    
+    width: calc(100% - 4px);
+    
+  }

@@ -1,0 +1,46 @@
+.easyAppointments {
+  margin-left: -46px;
+  top: 0px;
+  width: 414px;
+  height: 542px;
+  background: transparent url("../img/EasyAppointment.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.esmallrectangle {
+  margin-left: 148px;
+  width: 20px;
+  height: 8px;
+  background: transparent url("../img/Rectanglesmall.png") 0% 0% no-repeat
+    padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+.erectangle {
+  margin-left: 21px;
+
+  width: 20px;
+  height: 8px;
+  background: transparent url("../img/Rectangle.png") 0% 0% no-repeat
+    padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+.esmallrectangle1 {
+  margin-left: 19px;
+  width: 20px;
+  height: 8px;
+  background: transparent url("../img/Rectanglesmall.png") 0% 0% no-repeat
+    padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+.esmallrectangle2 {
+  margin-left: 31px;
+  width: 20px;
+  height: 8px;
+  background: transparent url("../img/Rectanglesmall.png") 0% 0% no-repeat
+    padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}

@@ -1,0 +1,21 @@
+.splash_main{
+  margin: auto;
+  top: 0px;
+left: 0px;
+width: 414px;
+height: 896px;
+background: transparent url('../img/Photo.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.gradient{
+  margin-left: 0px;
+  top: 0px;
+  left: 0px;
+  width: 414px;
+  height: 542px;
+   height: 896px;
+  background: transparent url("../svg/Gradient.svg") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}

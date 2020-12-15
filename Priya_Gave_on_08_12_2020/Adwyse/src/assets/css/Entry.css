@@ -1,0 +1,20 @@
+.forwardArrowfirst {
+  margin-top: -19px;
+  margin-left: 280px;
+  width: 9px;
+  width: 13px;
+  height: 26px;
+  background: transparent url("../img/forwardArrow.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.forwardArrowtwo {
+  margin-top: -19px;
+  margin-left: 280px;
+  width: 9px;
+  width: 13px;
+  height: 26px;
+  background: transparent url("../img/forwardArrow.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}

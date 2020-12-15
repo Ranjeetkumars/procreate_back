@@ -1,0 +1,10 @@
+.reminder {
+  margin-top: 0px;
+  margin-left: 272px;
+  height: 182px;
+  width: 9px;
+  width: 13px;
+
+  background: transparent url("../img/Reminder.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}

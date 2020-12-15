@@ -1,0 +1,62 @@
+.Card {
+  top: 250px;
+  left: 37px;
+  width: 340px;
+  height: 220px;
+  background: transparent linear-gradient(237deg, #2fc6ba 0%, #209087 100%) 0%
+    0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+}
+.Card1 {
+  top: 510px;
+  left: 37px;
+  width: 340px;
+  height: 215px;
+  background: transparent linear-gradient(239deg, #4782d8 0%, #2d599a 100%) 0%
+    0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+}
+.headingLogo {
+  top: 71px;
+  margin: 15px;
+  margin-left: 190px;
+  left: 109px;
+  width: 196px;
+  height: 90px;
+  background: transparent url("../img/Logo.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+p {
+  margin-left: 37px;
+  width: 337px;
+  height: 47px;
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) 18px/25px var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--dark-gray);
+  text-align: left;
+  font: normal normal normal 18px/25px Lato;
+  letter-spacing: 0px;
+  color: #4a5058;
+  opacity: 1;
+}
+.skip {
+  margin-left: 341px;
+
+  margin-top: 58px;
+  width: 38px;
+  height: 24px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold)
+    var(--unnamed-font-size-20) / 24px var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--primary-blue);
+  text-align: center;
+  font: normal normal bold 20px/24px Lato;
+  letter-spacing: 0px;
+  color: #2d5795;
+  opacity: 1;
+  position: absolute;
+}

@@ -1,0 +1,294 @@
+
+  
+/* Specialization Conform css  Start*/
+
+/* cover card css */
+.coverc{
+    top: 0px;
+  left: 0px;
+  width: 387px;
+  height: 784px;
+  background:#424242de 0% 0% no-repeat padding-box;
+  margin-left: 586px;
+  opacity: 1;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  opacity: 1;
+  z-index: 2;
+  position: absolute;
+  border-radius: 3px;
+  margin-top: 12px;
+  }
+  .coverc:hover{
+    border: 1px  solid blue;
+  }
+  .coverc:active{
+    border: 1px  solid pink;
+  }
+  
+  /* inner card css */
+  .cardc {
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12) !important;
+    border-radius: 6px;
+    margin: 10px 5px 20px;
+    margin-left: 583px;
+    width: 393px;
+    height: 790px;
+    opacity: 1;
+    
+  }
+  .cardc:hover{
+    border: 1px  solid blue;
+  }
+  .cardc:active{
+    border: 1px  solid pink;
+  }
+  
+  
+  /* inner heading css */
+  .headerc{
+    margin-top: 0px;
+                  margin-left: 36px;
+                  width: 12px;
+                  height: 21px;
+                  background: transparent url('assets/img/backarrow.png') 0% 0% no-repeat padding-box;
+                  opacity: 1;
+  }
+  
+  
+  /* inner card logo css */
+  .header1c{
+    margin-top: -40px;
+    margin-left: 75px;
+    width: 196px;
+    height: 59px;
+    background: transparent url('assets/img/Logo.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
+  
+  /*inner card  small para css */
+  .subtitlec{
+    margin-top: 10px;
+    margin-left: 91px;
+    width: 148px;
+    height: 24px;
+    text-align: left;
+    font: normal normal bold 20px/34px Lato;
+    letter-spacing: 0px;
+    color: #2D5795;
+    opacity: 1;
+  }
+  
+  /* inner user logo , text css */
+  .imagesc{
+    margin-left: 20px;
+  width: 21px;
+  height: 21px;
+  background: transparent url('assets/img/user.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  }
+  .textuserc{
+    margin-top: 70px;
+    margin-left: 25px;
+  }
+  .textc{
+    margin-left: 26px;
+  width: 154px;
+  height: 19px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--dark-gray);
+  text-align: left;
+  font: normal normal bold 16px/19px Lato;
+  letter-spacing: 0px;
+  color: #4A5058;
+  opacity: 1;
+  }
+  
+  /* upper card css */
+  
+  .card2c {
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12) !important;
+    border-radius: 6px;
+    margin: 10px 5px 20px;
+    width: 350px;
+    height: 400px;
+    opacity: 1;
+    margin-top: 80px;
+    z-index: 3;
+    position: absolute;
+    margin-top: 17px;
+    margin-left: -3px;
+}
+
+  /* {label css} */
+  .image1c{
+    margin-left: 140px;
+  width: 122px;
+  height: 24px;
+  background: transparent url('assets/img/special.png') 0% 0% no-repeat padding-box;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-34) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--primary-blue);
+  text-align: left;
+  font: normal normal bold 20px/34px Lato;
+  letter-spacing: 0px;
+  color: #2D5795;
+  opacity: 1;
+  }
+  
+
+  /* paragraph css */
+  .parac{
+    margin-top: 10px;
+    margin-left: 24px;
+  width: 262px;
+  height: 36px;
+  font: italic normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-16)/17px var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--dark-gray);
+  text-align: center;
+  font: italic normal normal 16px/17px Lato;
+  letter-spacing: 0px;
+  color: #4A5058;
+  opacity: 1;
+  }
+  
+  /* upper multiple cards css */
+  .card3c{
+    margin-left: -9px;
+    margin-top: 25px;
+    width: 100px;
+      height: 100px;
+  background: #F2F2F2 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  }
+  .image22c {
+    font-size: 67px;
+    margin-left: 17px;
+    opacity: 1;
+      background: transparent url('assets/img/dentist.png') 0% 0% no-repeat padding-box;
+  }
+  .title32c{
+    top: 396px;
+  left: 55px;
+  width: 64px;
+  height: 15px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 12px/15px var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal bold 12px/15px Lato;
+  letter-spacing: 0px;
+  color: #B3BCC7;
+  text-transform: capitalize;
+  opacity: 1;
+  }
+  .card4c{
+    margin-left: 118px;
+    margin-top: -101px;
+      width: 100px;
+      height: 100px;
+  background: #F2F2F2 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  }
+  .image23c{
+    font-size: 67px;
+    margin-left: 17px;
+    opacity: 1;
+    background: transparent url('assets/img/pulmonologist.png') 0% 0% no-repeat padding-box;
+  }
+  .card5c{
+    margin-left: 245px;
+    margin-top: -100px;
+      width: 100px;
+      height: 100px;
+  background: #F2F2F2 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  }
+  .image24c{
+    font-size: 67px;
+    margin-left: 17px;
+    opacity: 1;
+    background: transparent url('assets/img/ent.png') 0% 0% no-repeat padding-box;
+  }
+  
+  /* close icon css */
+  .closeiconc{
+    margin-top: -30px;
+    margin-left: 325px;
+  width: 19px;
+  height: 19px;
+  background: transparent url('assets/img/close.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  
+  }
+  
+  /* sucess button css */
+  .sucessbtnc{
+    margin-top: 35px;
+    margin-left: -2px;
+  width: 340px;
+  height: 50px;
+  background: var(--green) 0% 0% no-repeat padding-box;
+  background: #2EB9AE 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  }
+  
+  /* inside text css */
+  .logintextc{
+    top: 381px;
+    float: left;
+    margin-top: -3px;
+    margin-left: -33px;
+    width: 200px;
+  height: 22px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 18px/20px var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--white);
+  /* text-align: left; */
+  font: normal normal bold 18px/22px Lato;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  }
+  
+  /* inside arrow css */
+  .rightarrowc {
+    top: 384px;
+    left: 347px;
+    width: 13px;
+    height: 16px; 
+    background: transparent url('assets/img/arrow.png') 0% 0% no-repeat padding-box;
+     opacity: 1;
+    margin-left: 255px;
+  }
+  .colorc{
+    background: #2D5795 0% 0% no-repeat padding-box;
+  }
+  .selecttextc{
+    margin-left: 37px;
+    margin-top: 20px;
+    width: 216px;
+    height: 22px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 18px/25px var(--unnamed-font-family-lato);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--dark-gray);
+    text-align: center;
+    font: normal normal bold 18px/25px Lato;
+    letter-spacing: 0px;
+    color: #4A5058;
+    opacity:1;
+  }
+
+  /* SpecializationConform css  End*/
+
+
+  

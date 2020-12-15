@@ -1,0 +1,255 @@
+/* Login page related css Start */
+
+/* card css */
+.card00 {
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12) !important;
+    border-radius: 6px;
+    max-width: 24rem;
+    margin: 0 auto;
+    height:  842px;
+    opacity: 1;
+  }
+  
+  .card00:hover{
+    border: 1px  solid blue;
+  }
+  .card00:active{
+    border: 1px  solid pink;
+  }
+
+  /* back arrow css */
+  .header00{
+    margin-top: 0px;
+                  margin-left: 36px;
+                  width: 12px;
+                  height: 21px;
+                  background: transparent url('assets/img/backarrow.png') 0% 0% no-repeat padding-box;
+                  opacity: 1;
+  }
+
+  /* Adwyse logo css */
+  .header100{
+    margin-top: 0px;
+    margin-left: 75px;
+    width: 196px;
+    height: 59px;
+    background: transparent url('assets/img/Logo.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
+
+  /* small titlecss */
+  .subtitle00{
+    margin-top: 18px;
+    margin-left: 91px;
+    width: 148px;
+    height: 24px;
+    text-align: left;
+    font: normal normal bold 20px/34px Lato;
+    letter-spacing: 0px;
+    color: #2D5795;
+    opacity: 1;
+  }
+
+  /* usre icon css */
+  .images00{
+    margin-left: 20px;
+  width: 21px;
+  height: 21px;
+  background: transparent url('assets/img/user.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  }
+
+  /* user label css */
+  .textuser00{
+    margin-top: 50px;
+    margin-left: 5px;
+  }
+  .text00{
+    margin-left: 26px;
+  width: 154px;
+  height: 19px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--dark-gray);
+  text-align: left;
+  font: normal normal bold 16px/19px Lato;
+  letter-spacing: 0px;
+  color: #4A5058;
+  opacity: 1;
+  }
+
+  /* \input filed css */
+  .formfield00{
+    margin-top: 20px;
+    margin-left: 13px;
+    width: 340px;
+    height: 50px;
+    background: #F2F2F2 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+  }
+
+  /* edit text inside form filed */
+  .insidetext00{
+    margin-top: 50px;
+      margin-left: 30px;
+  width: 288px;
+  height: 19px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal normal 16px/19px Lato;
+  letter-spacing: 0px;
+  color: #BFBFBF;
+  opacity: 1;
+  }
+
+  /* sucess button css */
+  .sucessbtn00{
+    margin-top: 15px;
+    margin-left: 13px;
+  width: 340px;
+  height: 50px;
+  background: var(--green) 0% 0% no-repeat padding-box;
+  background: #2EB9AE 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  }
+
+  /* inside text css */
+  .logintext00{
+    top: 381px;
+    float: left;
+    margin-top: -3px;
+  width: 127px;
+  height: 22px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 18px/20px var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--white);
+  /* text-align: left; */
+  font: normal normal bold 18px/22px Lato;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  }
+  
+/* inside arrow css */
+  .rightarrow00 {
+    top: 384px;
+    left: 347px;
+    width: 13px;
+    height: 16px; background: transparent url('assets/img/arrow.png') 0% 0% no-repeat padding-box;
+     opacity: 1;
+    margin-left: 255px;
+}
+
+/* primary button css */
+  .primarybtn00{
+    margin-top:15px;
+    margin-left: 13px;
+  width: 340px;
+  height: 50px;
+  background: var(--primary-blue) 0% 0% no-repeat padding-box;
+  background: #2D5795 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  }
+
+  /* inside text */
+  .logintext100{
+    top: 448px;
+    float: left;
+    margin-top: -3px;
+    width: 165px;
+    height: 22px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 18px/22px var(--unnamed-font-family-lato);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--white);
+    font: normal normal bold 18px/22px Lato;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+  }
+
+  /* register text css */
+  .regtext00{
+    margin-top: 29px;
+    margin-left: 37px;
+    width: 263px;
+    height: 17px;
+    text-align: center;
+    letter-spacing: 0px;
+    opacity: 1;
+  }
+
+  /* reg with anchor tag css */
+  .anch00{
+    top: 0px;
+  left: 147px;
+  width: 90px;
+  height: 17px;
+  font: var(--unnamed-font-style-normal) normal 900 14px/17px var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--primary-blue);
+  text-align: center;
+  font: normal normal 900 14px/17px Lato;
+  letter-spacing: 0px;
+  color: #2D5795;
+  }
+
+/* footer image css */
+  .backgroungimg00 {
+    top: 0px;
+    left: 0px;
+    width: 379px;
+    height: 542px;
+   
+    background: transparent url("assets/img/logo1.png") 0% 0% no-repeat ;
+    opacity: 1;
+    margin-top: 520px;
+    margin-left: 600px;
+    z-index: 1051;
+    position: absolute;
+}
+
+
+  .input{
+  top: 295px;
+  left: 37px;
+  width: 340px;
+  height: 50px;
+  background: #F2F2F2 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  }
+  input, select, textarea, button {
+    padding: 1rem;
+    /* border-radius: 0.5rem; */
+    /* border: 0.1rem #a4a4a4 solid; */
+     font-size: 1rem; 
+    font-family: Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .b{
+    fill: none;
+    stroke:#4a5058;
+    stroke-linecap:round;
+    stroke-linejoin:round;
+    stroke-width:2px;
+    }
+  
+   .a
+    {
+    fill:rgba(255,0,0,0);
+    }
+  
+  
+    .a{fill:none;stroke:#fff;stroke-linecap:round;stroke-width:2px;}
+
+    /* Login page related css End */
+
+  

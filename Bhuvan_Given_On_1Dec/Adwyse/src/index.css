@@ -1,0 +1,105 @@
+@import "../src/assets/css/awards_recognition.css";
+@import "../src/assets/css/account_information.css";
+@import "../src/assets/css/splash.css";
+
+@import "../src/assets/css/StayConnected.css";
+@import "../src/assets/css/PrivacyGuaranteed.css";
+@import "../src/assets/css/EasyAppointments.css";
+@import "../src/assets/css/UpFrontPayment.css";
+@import "../src/assets/css/GetStarted.css";
+@import "../src/assets/css/RegistrationUnderReview.css";
+@import "../src/assets/css/AboutUs.css";
+
+@import "../src/assets/css/ButtonDemo.css"; 
+
+@import "../src/assets/css/desktoplogin.css";
+
+
+
+
+
+
+
+.p-button {
+  color: #c8c8c8;
+  background: #eaeaea;
+  border: 1px solid #e3f2fd;
+  padding: 0.429rem 1rem;
+  font-size: 1rem;
+  -webkit-transition: background-color 0.2s, color 0.2s, border-color 0.2s, -webkit-box-shadow 0.2s;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s, -webkit-box-shadow 0.2s;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s, -webkit-box-shadow 0.2s;
+  border-radius: 3px;
+}
+.p-component {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+
+ .MuiOutlinedInput-input {
+  padding: 18.5px 14px;
+  text-align: center;
+}
+.MuiOutlinedInput-root {
+  position: relative;
+  border-radius: 4px;
+  height: 72px;
+ 
+  
+  
+}
+
+
+.p-component {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1rem;
+  font-weight: normal;
+}
+.p-button {
+  color: #BFBFBF;
+  background: #FFFFFF;
+  border: 1px solid #FFFFFF;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s;
+  border-radius: 3px;
+}
+
+.p-dialog .p-dialog-header {
+  border-bottom: 0px solid #c8c8c8;
+  background: #ffffff;
+  color: #333333;
+  padding: 1rem;
+  border-top-right-radius: 3px;
+  border-top-left-radius: 3px;
+}
+
+
+
+.react-responsive-modal-modal {
+  max-width: 823px;
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+  background: #ffffff;
+  box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.25);
+  margin: 1.2rem;
+  padding: 1.2rem;
+  position: relative;
+  overflow-y: auto;
+  
+} 
+
+.react-responsive-modal-closeButton {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  background-color: transparent;
+  display: flex;
+}

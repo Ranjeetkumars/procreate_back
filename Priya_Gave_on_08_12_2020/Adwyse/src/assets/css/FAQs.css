@@ -1,0 +1,156 @@
+.fqasarrow{
+   margin-left: 30px;
+width: 12px;
+height: 21px;
+background: transparent url('../img/backarrow.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.faqsname{
+    margin-left: 50px;
+    margin-top: -25px;
+    width: 66px;
+    height: 30px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 25px/var(--unnamed-line-spacing-34) var(--unnamed-font-family-lato);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--dark-gray);
+    text-align: left;
+    font: normal normal bold 25px/34px Lato;
+    letter-spacing: 0px;
+    color: #4A5058;
+    opacity: 1;  
+}
+.helptext{
+  /* margin-top: 25px; */
+    margin-left: 63px;
+width: 204px;
+height: 24px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-34) var(--unnamed-font-family-lato);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--primary-blue);
+text-align: center;
+font: normal normal bold 20px/34px Lato;
+letter-spacing: 0px;
+color: #2D5795;
+opacity: 1;
+}
+.asktext{
+  /* margin-top: 16px; */
+  margin-left: 40px;
+width: 262px;
+height: 39px;
+font: italic normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-16)/20px var(--unnamed-font-family-lato);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--dark-gray);
+text-align: center;
+font: italic normal normal 16px/20px Lato;
+letter-spacing: 0px;
+color: #4A5058;
+opacity: 1;
+}
+@media (min-width: 600px)
+{.MuiTab-root {
+  min-width: 100px;
+}}
+
+.successarrow{
+  margin-left: -26px;
+  margin-top: 2px;
+width: 53px;
+height: 59px;
+background: var(--green) 0% 0% no-repeat padding-box;
+background: #2EB9AE 0% 0% no-repeat padding-box;
+border-radius: 0px 6px 6px 0px;
+opacity: 1;
+}
+.tsuccess{
+  margin-top: -59px;
+  margin-left: 345px;
+}
+.rightarrow {
+  top: 384px;
+  left: 347px;
+  width: 13px;
+  height: 16px; background: transparent url('../img/arrow.png') 0% 0% no-repeat padding-box;
+   opacity: 1;
+  margin-left: 5px;
+}
+.query{
+ margin-top: 20px;
+width: 79px;
+height: 19px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--dark-gray);
+text-align: left;
+font: normal normal bold 16px/19px Lato;
+letter-spacing: 0px;
+color: #4A5058;
+text-transform: capitalize;
+opacity: 1;
+}
+.pay{
+  margin-left: 100px;
+    margin-top: -15px;
+  width: 70px;
+  height: 19px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal bold 16px/19px Lato;
+  letter-spacing: 0px;
+  color: #B3BCC7;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.appo{
+  margin-left: 190px;
+  top: 326px;
+  margin-top: -20px;
+  width: 101px;
+  height: 19px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal bold 16px/19px Lato;
+  letter-spacing: 0px;
+  color: #B3BCC7;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.video{
+  margin-left:315px;
+  top: 326px;
+  margin-top: -19px;
+  width: 94px;
+  height: 19px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal bold 16px/19px Lato;
+  letter-spacing: 0px;
+  color: #B3BCC7;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.q1{
+  margin-top: 20px;
+width: 263px;
+height: 42px;
+font: var(--unnamed-font-style-normal) normal 600 var(--unnamed-font-size-16)/23px var(--unnamed-font-family-lato);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--dark-gray);
+text-align: left;
+font: normal normal 600 16px/23px Lato;
+letter-spacing: 0px;
+color: #4A5058;
+opacity: 1;
+}
+.setplus{
+  margin-left: 330px; 
+  width: 20px;
+  /* float: right; */
+   margin-top: -26px; 
+  height: 20px;
+background: transparent url('../img/plus.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}

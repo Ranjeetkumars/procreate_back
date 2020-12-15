@@ -1,0 +1,347 @@
+ /* Specialization  css start */
+  /* cover card css */
+  .coverr{
+    top: 0px;
+  left: 0px;
+  width: 387px;
+    height: 731px;
+  background:#424242de 0% 0% no-repeat padding-box;
+  margin-left: 586px;
+  opacity: 1;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  opacity: 1;
+  z-index: 2;
+  position: absolute;
+  border-radius: 3px;
+  margin-top: 12px;
+  }
+  .coverr.b{
+    border: 1px  solid blue;
+  }
+  .coverr:active{
+    border: 1px  solid pink;
+  }
+  
+  /* inner card css */
+  .cardr {
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12) !important;
+    border-radius: 6px;
+    margin: 10px 5px 20px;
+    margin-left: 583px;
+    width: 393px;
+      height: 735px;
+    opacity: 1;
+    
+  }
+  .cardr:hover{
+    border: 1px  solid blue;
+  }
+  .cardr:active{
+    border: 1px  solid pink;
+  }
+  
+  
+  /* inner heading css */
+  .headerr{
+    margin-top: 0px;
+                  margin-left: 36px;
+                  width: 12px;
+                  height: 21px;
+                  background: transparent url('assets/img/backarrow.png') 0% 0% no-repeat padding-box;
+                  opacity: 1;
+  }
+  
+  
+  /* inner card logo css */
+  .header1r{
+    margin-top: -40px;
+    margin-left: 75px;
+    width: 196px;
+    height: 59px;
+    background: transparent url('assets/img/Logo.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
+  
+  /*inner card  small para css */
+  .subtitler{
+    margin-top: 10px;
+    margin-left: 91px;
+    width: 148px;
+    height: 24px;
+    text-align: left;
+    font: normal normal bold 20px/34px Lato;
+    letter-spacing: 0px;
+    color: #2D5795;
+    opacity: 1;
+  }
+  
+  /* inner user logo , text css */
+  .imagesr{
+    margin-left: 20px;
+  width: 21px;
+  height: 21px;
+  background: transparent url('assets/img/user.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  }
+  .textuserr{
+    margin-top: 70px;
+    margin-left: 25px;
+  }
+  .textr{
+    margin-left: 26px;
+  width: 154px;
+  height: 19px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--dark-gray);
+  text-align: left;
+  font: normal normal bold 16px/19px Lato;
+  letter-spacing: 0px;
+  color: #4A5058;
+  opacity: 1;
+  }
+  
+  /* upper card css */
+  .card2r {
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12) !important;
+    border-radius: 6px;
+    margin: 10px 5px 20px;
+    width: 370px;
+    height: 599px;
+    opacity: 1;
+    margin-top: 80px;
+    z-index: 3;
+    position: absolute;
+    margin-top: -181px;
+    margin-left: -7px;
+}
+  
+  /* {label css} */
+  .image1r{
+    top: 151px;
+  left: 155px;
+  width: 122px;
+  height: 24px;
+  background: transparent url('assets/img/special.png') 0% 0% no-repeat padding-box;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-34) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--primary-blue);
+  text-align: left;
+  font: normal normal bold 20px/34px Lato;
+  letter-spacing: 0px;
+  color: #2D5795;
+  opacity: 1;
+  }
+  
+  /* specialization css */
+  .textuser1r{
+    margin-top: 0px;
+    margin-left: 81px;
+  }
+  .text12r{
+    margin-left: 26px;
+  width: 154px;
+  height: 19px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--dark-gray);
+  text-align: left;
+  /* font: normal normal bold 16px/19px Lato; */
+  letter-spacing: 0px;
+  color:#2D5795;
+  opacity: 1;
+  }
+  
+  /* paragraph css */
+  .parar{
+    margin-top: 10px;
+    margin-left: 24px;
+  width: 262px;
+  height: 36px;
+  font: italic normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-16)/17px var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--dark-gray);
+  text-align: center;
+  font: italic normal normal 16px/17px Lato;
+  letter-spacing: 0px;
+  color: #4A5058;
+  opacity: 1;
+  }
+  
+  /* upper multiple cards css */
+  .card3r{
+    margin-left: -9px;
+    margin-top: 25px;
+    width: 100px;
+      height: 100px;
+  background: #F2F2F2 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  }
+  .image22r{
+    font-size: 67px;
+    margin-left: 15px;
+    opacity: 1;
+    background: transparent url('assets/img/cardiologist.png') 0% 0% no-repeat padding-box;
+  }
+  .title32r{
+    top: 396px;
+  left: 55px;
+  width: 64px;
+  height: 15px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 12px/15px var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal bold 12px/15px Lato;
+  letter-spacing: 0px;
+  color: #B3BCC7;
+  text-transform: capitalize;
+  opacity: 1;
+  }
+  .card4r{
+    margin-left: 117px;
+    margin-top: -101px;
+      width: 100px;
+      height: 100px;
+  background: #F2F2F2 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  }
+  .image23r{
+    font-size: 67px;
+    margin-left: 15px;
+    opacity: 1;
+    background: transparent url('assets/img/neurologist.png') 0% 0% no-repeat padding-box;
+  }
+  .card5r{
+    margin-left: 247px;
+      margin-top: -101px;
+      width: 100px;
+      height: 100px;
+  background: #F2F2F2 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  }
+  .image24r{
+    font-size: 67px;
+    margin-left: 15px;
+    opacity: 1;
+    background: transparent url('assets/img/ent.png') 0% 0% no-repeat padding-box;
+  }
+  .image25r{
+    font-size: 67px;
+    margin-left: 15px;
+    opacity: 1;
+    background: transparent url('assets/img/ophthalmogist.png') 0% 0% no-repeat padding-box;
+  }
+  .image26r{
+    font-size: 67px;
+    margin-left: 15px;
+    opacity: 1;
+    background: transparent url('assets/img/dentist.png') 0% 0% no-repeat padding-box;
+  }
+  .image27r{
+    font-size: 67px;
+    margin-left: 15px;
+    opacity: 1;
+    background: transparent url('assets/img/orthopedic.png') 0% 0% no-repeat padding-box;
+  }
+  .image28r{
+    font-size: 67px;
+    margin-left: 15px;
+    opacity: 1;
+    background: transparent url('assets/img/pulmonologist.png') 0% 0% no-repeat padding-box;
+  }
+  .image29r{
+    font-size: 67px;
+    margin-left: 15px;
+    opacity: 1;
+    background: transparent url('assets/img/urologist.png') 0% 0% no-repeat padding-box;
+  }
+  .image30r{
+    font-size: 67px;
+    margin-left: 15px;
+    opacity: 1;
+    background: transparent url('assets/img/neurosurgeon.png') 0% 0% no-repeat padding-box;
+  }
+  
+  /* upper card indicators css */
+  .indicatorsr{
+    margin-top: 23px;
+      margin-left: 126px;
+  width: 20px;
+  height: 8px;
+  /* background: var(--primary-blue) 0% 0% no-repeat padding-box; */
+  background: #2D5795 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+  }
+  .indicators1r{
+    margin-left: 150px;
+      margin-top: -7px;
+  width: 10px;
+  height: 8px;
+  background: #C1C9D3 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 0.5;
+  }
+  .indicators2r{
+    margin-left: 165px;
+      margin-top: -8px;
+  width: 10px;
+  height: 8px;
+  background: #C1C9D3 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 0.5;
+  }
+  .indicators3r{
+    margin-left: 180px;
+      margin-top: -8px;
+  width: 10px;
+  height: 8px;
+  background: #C1C9D3 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 0.5;
+  }
+  
+  /* input filed css */
+  .formfield1r{
+    margin-top: 20px;
+    margin-left: 6px;
+  width: 340px;
+  height: 50px;
+  background: #F2F2F2 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+  }
+  
+  /* search icon css */
+  .searchiconr{
+    margin-top: -26px;
+    margin-left: 302px;
+  width: 22px;
+  height: 22px;
+  background: transparent url('assets/img/search-icon.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  color: #F2F2F2;
+  }
+  
+  /* close icon css */
+  .closeiconr{
+    margin-top: -30px;
+    margin-left: 320px;
+  width: 19px;
+  height: 19px;
+  background: transparent url('assets/img/close.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  
+  }
+  
+  /* Specialization  css end */
+
+

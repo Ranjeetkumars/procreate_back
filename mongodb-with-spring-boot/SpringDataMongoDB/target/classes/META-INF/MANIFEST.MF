@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Ranjeet
+Build-Jdk: 11.0.2
+Implementation-Title: SpringDataMongoDB
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.javasampleapproach.datamongodb
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringDataMong
+ oDB/
+Created-By: Maven Integration for Eclipse
+

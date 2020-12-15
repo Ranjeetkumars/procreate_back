@@ -1,0 +1,179 @@
+
+
+/* Settings Css Start */
+.card00 {
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12) !important;
+    border-radius: 6px;
+    /* max-width: 24rem; */
+    width: 414px;
+    margin: 0 auto;
+    height:  842px;
+    opacity: 1;
+  }
+  
+  .card00:hover{
+    border: 1px  solid blue;
+  }
+  .card00:active{
+    border: 1px  solid pink;
+  }
+
+.fqasarrow{
+    top: 59px;
+left: 36px;
+width: 12px;
+height: 21px;
+background: transparent url('../img/backarrow.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.faqsname{
+    margin-left: 25px;
+    margin-top: -25px;
+    width: 66px;
+    height: 30px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) 25px/var(--unnamed-line-spacing-34) var(--unnamed-font-family-lato);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--dark-gray);
+    text-align: left;
+    font: normal normal bold 25px/34px Lato;
+    letter-spacing: 0px;
+    color: #4A5058;
+    opacity: 1;  
+}
+.helptext{
+  margin-top: 25px;
+    margin-left: 63px;
+width: 204px;
+height: 24px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-20)/var(--unnamed-line-spacing-34) var(--unnamed-font-family-lato);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--primary-blue);
+text-align: left;
+font: normal normal bold 20px/34px Lato;
+letter-spacing: 0px;
+color: #2D5795;
+opacity: 1;
+}
+.asktext{
+  margin-top: 16px;
+  margin-left: 40px;
+width: 262px;
+height: 39px;
+font: italic normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-16)/20px var(--unnamed-font-family-lato);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--dark-gray);
+text-align: center;
+font: italic normal normal 16px/20px Lato;
+letter-spacing: 0px;
+color: #4A5058;
+opacity: 1;
+}
+.successarrow{
+  margin-left: -26px;
+  margin-top: 2px;
+width: 53px;
+height: 59px;
+background: var(--green) 0% 0% no-repeat padding-box;
+background: #2EB9AE 0% 0% no-repeat padding-box;
+border-radius: 0px 6px 6px 0px;
+opacity: 1;
+}
+.MuiOutlinedInput-root {
+  /* position: relative;
+  border-radius: 4px; */
+  height: 55px;
+}
+.tsuccess{
+  margin-top: -59px;
+  margin-left: 315px;
+}
+.rightarrow {
+  top: 384px;
+  left: 347px;
+  width: 13px;
+  height: 16px; background: transparent url('../img/arrow.png') 0% 0% no-repeat padding-box;
+   opacity: 1;
+  margin-left: 5px;
+}
+.query{
+ margin-top: 20px;
+width: 79px;
+height: 19px;
+font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--dark-gray);
+text-align: left;
+font: normal normal bold 16px/19px Lato;
+letter-spacing: 0px;
+color: #4A5058;
+text-transform: capitalize;
+opacity: 1;
+}
+.pay{
+  margin-left: 90px;
+    margin-top: -15px;
+  width: 70px;
+  height: 19px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal bold 16px/19px Lato;
+  letter-spacing: 0px;
+  color: #B3BCC7;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.appo{
+  margin-left: 165px;
+  top: 326px;
+  margin-top: -20px;
+  width: 101px;
+  height: 19px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal bold 16px/19px Lato;
+  letter-spacing: 0px;
+  color: #B3BCC7;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.video{
+  margin-left:270px;
+  top: 326px;
+  margin-top: -19px;
+  width: 94px;
+  height: 19px;
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold) var(--unnamed-font-size-16)/var(--unnamed-line-spacing-19) var(--unnamed-font-family-lato);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  text-align: left;
+  font: normal normal bold 16px/19px Lato;
+  letter-spacing: 0px;
+  color: #B3BCC7;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.q1{
+  margin-top: 20px;
+width: 263px;
+height: 42px;
+font: var(--unnamed-font-style-normal) normal 600 var(--unnamed-font-size-16)/23px var(--unnamed-font-family-lato);
+letter-spacing: var(--unnamed-character-spacing-0);
+color: var(--dark-gray);
+text-align: left;
+font: normal normal 600 16px/23px Lato;
+letter-spacing: 0px;
+color: #4A5058;
+opacity: 1;
+}
+.setplus{
+  margin-left: 285px; 
+  width: 46px;
+  /* float: right; */
+  /* margin-top: -26px; */
+  height: 33px;
+background: transparent url('../img/Plus\ Icon.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}

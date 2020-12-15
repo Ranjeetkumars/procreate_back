@@ -1,0 +1,56 @@
+.UpFrontPayment {
+  margin-left: -45px;
+  top: 0px;
+  left: 0px;
+  width: 414px;
+  height: 542px;
+  background: transparent url("../img/upFront.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.organisationLog {
+  margin-top: -22px;
+
+  margin-left: 140px;
+  width: 68px;
+  height: 68px;
+  background: transparent url("../img/OrganisationIcon.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.doctorLog {
+  margin-top: -22px;
+
+  margin-left: 140px;
+  width: 68px;
+  height: 68px;
+  background: transparent url("../img/DoctorIcon.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.upsmallrec {
+  margin-left: 155px;
+  width: 20px;
+  height: 8px;
+  background: transparent url("../img/Rectanglesmall.png") 0% 0% no-repeat
+    padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+.upsmallrec1 {
+  margin-left: 20px;
+  width: 20px;
+  height: 8px;
+  background: transparent url("../img/Rectanglesmall.png") 0% 0% no-repeat
+    padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+.uprec {
+  margin-left: 20px;
+  width: 20px;
+  height: 8px;
+  background: transparent url("../img/Rectangle.png") 0% 0% no-repeat
+    padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
